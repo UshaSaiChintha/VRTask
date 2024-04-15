@@ -7,4 +7,4 @@ This run, produces mpd file and later on run the VideoServer file which hosts th
 
 Move the client code to Unity and create a game object with DashMetricsCalculator as its compoenent.
 
-Run the configuration and you can see video files getting streamed on VR headset
+Run the configuration and you can see video files getting streamed and metrics being loggoed to a .txt file
