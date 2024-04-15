@@ -4,9 +4,9 @@ public class VideoEncoder {
 
     public static void main(String[] args) {
         // Directory containing the input video files
-        String inputDirectory = "/Users/ushasaichintha/IdeaProjects/VRTASK1/server/video";
+        String inputDirectory = "video_input_directory";
         // Parent output directory for segmented videos
-        String outputParentDirectory = "/Users/ushasaichintha/IdeaProjects/VRTASK1/server/segments";
+        String outputParentDirectory = "video_output_directory";
         // Segment duration in seconds
         int segmentDurationInSeconds = 10;
 
